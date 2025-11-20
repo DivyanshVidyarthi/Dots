@@ -1,0 +1,8 @@
+{
+  "wallpaperFolder": "/home/divid/Pictures/dotfiles-wallpapers",
+  "posthookScript": "theme-set",
+  "exportThemeLocation": "/home/divid/.config/tinte/exported-themes",
+  "applyThemeLocation": "/home/divid/.local/share/dotfiles/themes/tinte",
+  "colorBackend": "imagemagick",
+  "wallpaperBackend": "hyprpaper"
+}

@@ -1,0 +1,23 @@
+2025/11/19-21:45:57.001 2336 Reusing MANIFEST /home/divid/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/11/19-21:45:57.005 2336 Recovering log #166
+2025/11/19-21:45:57.005 2336 Reusing old log /home/divid/.config/discord/Local Storage/leveldb/000166.log 
+2025/11/19-21:46:57.006 2336 Level-0 table #170: started
+2025/11/19-21:46:57.018 2336 Level-0 table #170: 39347 bytes OK
+2025/11/19-21:46:57.021 2336 Delete type=0 #166
+2025/11/19-21:53:48.655 2336 Level-0 table #172: started
+2025/11/19-21:53:48.697 2336 Level-0 table #172: 3074327 bytes OK
+2025/11/19-21:53:48.699 2336 Delete type=0 #169
+2025/11/19-22:36:56.501 2336 Level-0 table #174: started
+2025/11/19-22:36:56.513 2336 Level-0 table #174: 43695 bytes OK
+2025/11/19-22:36:56.516 2336 Delete type=0 #171
+2025/11/19-22:36:56.516 2336 Compacting 4@0 + 2@1 files
+2025/11/19-22:36:56.555 2336 Generated table #175@0: 12 keys, 3067051 bytes
+2025/11/19-22:36:56.556 2336 Generated table #176@0: 27 keys, 55032 bytes
+2025/11/19-22:36:56.556 2336 Compacted 4@0 + 2@1 files => 3122083 bytes
+2025/11/19-22:36:56.557 2336 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/11/19-22:36:56.557 2336 Delete type=2 #165
+2025/11/19-22:36:56.557 2336 Delete type=2 #164
+2025/11/19-22:36:56.557 2336 Delete type=2 #172
+2025/11/19-22:36:56.557 2336 Delete type=2 #167
+2025/11/19-22:36:56.557 2336 Delete type=2 #174
+2025/11/19-22:36:56.557 2336 Delete type=2 #170

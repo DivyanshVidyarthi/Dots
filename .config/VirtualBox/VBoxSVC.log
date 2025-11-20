@@ -1,0 +1,44 @@
+00:00:00.000200 main     VirtualBox XPCOM Server 7.2.4 r170995 linux.amd64 (Oct 22 2025 16:59:14) release log
+00:00:00.000202 main     Log opened 2025-11-15T20:47:44.796925000Z
+00:00:00.000202 main     Build Type: release
+00:00:00.000204 main     OS Product: Linux
+00:00:00.000205 main     OS Release: 6.17.7-zen1-2-zen
+00:00:00.000205 main     OS Version: #1 ZEN SMP PREEMPT_DYNAMIC Wed, 12 Nov 2025 15:28:03 +0000
+00:00:00.000223 main     DMI Product Name: Victus by HP Gaming Laptop 15-fb0xxx
+00:00:00.000232 main     DMI Product Version: 
+00:00:00.000237 main     Firmware type: UEFI
+00:00:00.000296 main     Secure Boot: Disabled
+00:00:00.000327 main     Host RAM: 15311MB (14.9GB) total, 8717MB (8.5GB) available
+00:00:00.000328 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000329 main     Process ID: 16685
+00:00:00.000329 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.004234 main     IPC socket path: /tmp/.vbox-divid-ipc/ipcd
+00:00:00.006299 DCon01   VirtualBox: object creation starts
+00:00:00.006349 DCon01   Home directory: '/home/divid/.config/VirtualBox'
+00:00:00.006447 DCon01   Loading settings file "/home/divid/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.013313 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.013919 DCon01   HostDnsMonitor: initializing
+00:00:00.014022 DCon01   NAT: resolv.conf: nameserver 8.8.8.8
+00:00:00.014025 DCon01   NAT: resolv.conf: nameserver 1.1.1.1
+00:00:00.014035 DCon01   HostDnsMonitor: updating information
+00:00:00.014039 DCon01   HostDnsMonitor: old information
+00:00:00.014041 DCon01     no server entries
+00:00:00.014042 DCon01     no domain set
+00:00:00.014043 DCon01     no search string entries
+00:00:00.014044 DCon01   HostDnsMonitor: new information
+00:00:00.014045 DCon01     server 1: 8.8.8.8
+00:00:00.014047 DCon01     server 2: 1.1.1.1
+00:00:00.014048 DCon01     no domain set
+00:00:00.014049 DCon01     no search string entries
+00:00:00.015092 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.015890 DCon01   VirtualBox: object created
+00:00:00.490737 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=false aResultDetail=0
+00:00:19.254825 DCon03   Saving settings file "/home/divid/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:19.268854 DCon03   Finished saving settings file "/home/divid/.config/VirtualBox/VirtualBox.xml"
+00:00:21.968060 DCon03   Saving settings file "/home/divid/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:21.982098 DCon03   Finished saving settings file "/home/divid/.config/VirtualBox/VirtualBox.xml"
+00:00:29.498232 main     VirtualBox: object deletion starts
+00:00:29.498669 main     HostDnsMonitor: shutting down ...
+00:00:29.500199 main     HostDnsMonitor: shut down
+00:00:29.510717 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:29.510808 main     VirtualBox: object deleted
